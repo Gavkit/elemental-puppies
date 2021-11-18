@@ -1,0 +1,43 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -10px;
+    font-family: RobotoThin;
+    position:absolute;
+    bottom:10px;
+    width:100%;
+    color: white;
+}
+
+.footer-info  {
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-family: RobotoThin;
+}
+
+.footer-info-left, .footer-info-right {
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 30%;
+}
+
+
+.footer-info__name{
+    text-align: start;
+}
+
+
+.footer-info__email, .footer-info__terms {
+    text-align: center;
+}
+
+.footer-separator {
+    flex-grow: 1;
+    border: none;
+    height: 1px;
+    background-color: black;
+    width: 100%;
+}
