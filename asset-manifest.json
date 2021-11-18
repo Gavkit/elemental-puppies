@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/elemental-puppies/static/css/main.a00ffa47.chunk.css",
+    "main.js": "/elemental-puppies/static/js/main.c09aea60.chunk.js",
+    "main.js.map": "/elemental-puppies/static/js/main.c09aea60.chunk.js.map",
+    "runtime-main.js": "/elemental-puppies/static/js/runtime-main.773af4bc.js",
+    "runtime-main.js.map": "/elemental-puppies/static/js/runtime-main.773af4bc.js.map",
+    "static/js/2.3eaed877.chunk.js": "/elemental-puppies/static/js/2.3eaed877.chunk.js",
+    "static/js/2.3eaed877.chunk.js.map": "/elemental-puppies/static/js/2.3eaed877.chunk.js.map",
+    "index.html": "/elemental-puppies/index.html",
+    "static/css/main.a00ffa47.chunk.css.map": "/elemental-puppies/static/css/main.a00ffa47.chunk.css.map",
+    "static/js/2.3eaed877.chunk.js.LICENSE.txt": "/elemental-puppies/static/js/2.3eaed877.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/elemental-puppies/static/media/Roboto-Thin.1711b41f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.773af4bc.js",
+    "static/js/2.3eaed877.chunk.js",
+    "static/css/main.a00ffa47.chunk.css",
+    "static/js/main.c09aea60.chunk.js"
+  ]
+}
